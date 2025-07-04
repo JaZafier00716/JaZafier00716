@@ -1,6 +1,13 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
+[![Communication](https://skillicons.dev/icons?i=gmail,linkedin,discord,notion)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,js,ts,haskell,php,latex,html,css)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=cmake,git,github,vscode,jest)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=figma,blenderc)](https://skillicons.dev)
+[![OS / Distros](https://skillicons.dev/icons?i=linux,ubuntu,debian,mint,kali,arch)](https://skillicons.dev)
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
