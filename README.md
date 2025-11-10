@@ -103,7 +103,7 @@ I'm a passionate Computer Science student at VSB - Technical University of Ostra
 
 ### 📚 Other Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
