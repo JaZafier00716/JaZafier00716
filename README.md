@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-I'm a passionate Computer Science student at VSB - Technical University of Ostrava with a strong foundation in both low-level and high-level programming. I enjoy tackling challenges in C, C++, Assembly (NASM), and modern web technologies like React and Next.js. With experience in hardware, Linux systems, and GPU computing, I thrive in learning new technologies and building efficient, readable code. Outside coding, I’m into disc golf, fitness, swimming, and hiking — always looking for new ways to grow both personally and professionally.
+I'm a passionate Computer Science student at VSB - Technical University of Ostrava with a strong foundation in both low-level and high-level programming. I enjoy tackling challenges in C, C++, Assembly (NASM), and modern web technologies like React and Next.js. With experience in hardware, Linux systems, and GPU computing, I thrive in learning new technologies and building efficient, readable code.
 
 ---
 
