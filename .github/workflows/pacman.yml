@@ -1,8 +1,8 @@
 name: Generate pacman animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "0 */12 * * *" # run exactly every 12 hours on the hour
+  schedule:
+    - cron: "0 */12 * * *" # run every 12 hours
   workflow_dispatch:
   push:
     branches:
@@ -19,24 +19,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      # Optional caching for Node modules
-      - name: Cache Node modules
-        uses: actions/cache@v4
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
       - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         env:
-          NODE_OPTIONS: "--max-old-space-size=8192" # 8 GB heap
+          NODE_OPTIONS: "--max-old-space-size=8192" # Increase Node memory to 8 GB
         with:
           github_user_name: ${{ github.repository_owner }}
 
