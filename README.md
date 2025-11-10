@@ -103,7 +103,7 @@ I'm a passionate Computer Science student at VSB - Technical University of Ostra
 
 ### 📚 Other Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
@@ -111,7 +111,7 @@ I'm a passionate Computer Science student at VSB - Technical University of Ostra
 
 ### 🧠 Productivity & Communication
 <p align="center">
-  <img src="https://img.shields.io/badge/overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/overleaf-white?style=for-the-badge&logo=overleaf&logoColor=47A141"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
